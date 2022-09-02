@@ -1,0 +1,9 @@
+* {
+    font-family: 'Helvetica', 'sans-serif';
+}
+
+ul {
+    list-style-type: circle;
+    background-color: blueviolet;
+    color: white;
+}
